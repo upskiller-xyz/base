@@ -1,0 +1,6 @@
+[White on daylight](https://whitearkitekter.com/news/daylight-simulation-tools-and-their-integration-in-the-design-workflow/)
+[Simple daylight estimation](https://whitearkitekter.com/wisedaylight/)
+[White - dagsljus brochure](https://whitearkitekter.com/se/wp-content/uploads/sites/3/2019/04/20190408_WRL_Dagsljus-i-Stadsplanering-1.pdf)
+[dagsljuskrav molndal](https://www.molndal.se/download/18.71b9248f187eaf366ce1be6d/1683639644926/Dagsljusutredning%20Fors%C3%A5ker,%20210414.pdf)
+[Gbg dagsljusutredningskrav](https://goteborg.se/wps/portal/start/bygga-bo-och-leva-hallbart/bygga-riva-och-forandra/tekniska-krav-kontroller-och-besked/dagsljusredovisning)
+[example of dagsljusberäkning](https://edokmeetings.stockholm.se/welcome-sv/namnder-styrelser/radet-till-skydd-for-stockholms-skonhet/mote-2019-12-02/agenda/dagsljusberakningpdf?downloadMode=open)

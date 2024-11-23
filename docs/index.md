@@ -11,7 +11,7 @@ Quartz requires **at least [Node](https://nodejs.org/) v20** and `npm` v9.3.1 to
 Then, in your terminal of choice, enter the following commands line by line:
 
 ```shell
-git clone https://github.com/jackyzha0/quartz.git
+git clone https://github.com/upskiller-xyz/base.git
 cd quartz
 npm i
 npx quartz create
@@ -43,4 +43,4 @@ For a comprehensive list of features, visit the [features page](/features). You 
 
 Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
 
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+If you're still having trouble, feel free to [submit an issue](https://github.com/upskiller-xyz/base/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).

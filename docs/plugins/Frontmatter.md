@@ -21,4 +21,4 @@ This plugin accepts the following configuration options:
 
 - Category: Transformer
 - Function name: `Plugin.Frontmatter()`.
-- Source: [`quartz/plugins/transformers/frontmatter.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/transformers/frontmatter.ts).
+- Source: [`quartz/plugins/transformers/frontmatter.ts`](https://github.com/upskiller-xyz/base/blob/v4/quartz/plugins/transformers/frontmatter.ts).

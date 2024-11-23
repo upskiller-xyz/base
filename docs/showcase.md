@@ -32,4 +32,4 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [🌓 Projects & Privacy - FOSS, tech, law](https://be-far.com)
 - [Zen Browser Docs](https://docs.zen-browser.app)
 
-If you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/jackyzha0/quartz/blob/v4/docs/showcase.md)!
+If you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/upskiller-xyz/base/blob/v4/docs/showcase.md)!

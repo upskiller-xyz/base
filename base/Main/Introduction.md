@@ -1,0 +1,1 @@
+This is a Project Feasibility Study intended to support the development of the [[Upskiller]] project and its implementation. This document is to be presented to the project's partners and other interested parties. The present report documents the need for the service that would enable professionals from different spheres to quickly simulate building performance with low costs.
