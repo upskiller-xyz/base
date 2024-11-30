@@ -3,9 +3,12 @@
 ### 📃 Agenda
 
 * weekly updates
+* managing support from [[Belysningsstyftelse]]
+* meeting with Arno
 * long-term perspective
 * understand critical points and time distribution
 * intro to obsidian
+
 
 ### ⚠️  Updates
 

@@ -1,6 +1,6 @@
 
 * get an understanding of performance analysis (workhsop by [[Alejandro]])
-* publish upskiller content on github pages
+~~* publish upskiller content on github pages~~
 * look into licenses
 * change synthetic dataset (both data and generation)
 * improve model performance

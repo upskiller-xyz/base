@@ -14,7 +14,7 @@
 * [[Libny]] shared updates on [SpeckleCon](https://conf.speckle.systems/)
 * Deliverables for [[Belysningsstyftelse]] were discussed and documented
 * [[Libny]] and [[Christoph]] will investigate on the availability of open data, incl. [boverket's API](https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/oppna-data/)
-* [[Stasja]] will make the github repo and share the current obsidian documentation
+* [[Stasja]] will make the github repo and share the current obsidian documentation ✔️
 * [[Alejandro]] will look into synthetic data generator and share the existing code and paper with the [[Team]]
 * [[Alejandro]] will prepare a workshop on building performance, metrics and swedish laws
 * [[Libny]] will find out about the norwegian regulations on IFC deliverables
