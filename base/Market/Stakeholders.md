@@ -1,6 +1,3 @@
-
 ## Stakeholder analysis
 
 ## Stakeholder Engagement
-
-

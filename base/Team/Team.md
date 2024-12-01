@@ -1,4 +1,4 @@
-* [Alejandro](Alejandro) 
-* [[Libny]] 
-* [[Stasja]]
-* [[Christoph]]
+- [Alejandro](Alejandro)
+- [[Libny]]
+- [[Stasja]]
+- [[Christoph]]

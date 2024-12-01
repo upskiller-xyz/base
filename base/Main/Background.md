@@ -17,7 +17,7 @@ Dagsljusnivån i ett utrymme påverkas i storleksordning av:
 3. Skuggande objekt som balkong eller närliggande byggnader.
 4. Ljustransmittansvärde (LT-värde) i fönsterglaset.
 5. Kulörer på innerväggar, golv, innertak, dörrar, fönsterbräden samt fasad och ovanliggande balkonger.
-   
+
    – Vilka verksamheter omfattas av krav på dagsljus?
 
 Bostäder, skolor, förskolor och stadigvarande arbetsplatser omfattas.  

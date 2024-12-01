@@ -1,2 +1,2 @@
-* [Learn Carbon](https://learncarbon.me/)
-* 
+- [Learn Carbon](https://learncarbon.me/)
+-

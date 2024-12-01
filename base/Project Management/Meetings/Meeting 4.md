@@ -3,10 +3,8 @@
 ### 📃 Agenda
 
 - [ ] updates from actions from [[Meeting 3]];
-- [ ]  [[Alejandro]] explains building performance;
+- [ ] [[Alejandro]] explains building performance;
 
-### ⚠️  Updates
-
+### ⚠️ Updates
 
 ### 🚀 Actions
-
