@@ -28,7 +28,7 @@
 
 - [ ] Checking [[Calls]] from the _Tocheck_ section [[Christoph]];
 - [ ] [[Libny]] check [Drivhuset](https://uppsala.drivhuset.se/en/);
-- [ ] Share Github accounts [[Alejandro]];
+- [x] Share Github accounts [[Alejandro]];
 - [x] Share Github accounts [[Libny]], [[Christoph]];
 - [x] [[Libny]], [[Alejandro]] share the existing materials;
 - [ ] Put down several scenarios for our organization with SWOT analysis [[Stasja]] [[Alejandro]];
