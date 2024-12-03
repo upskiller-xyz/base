@@ -28,16 +28,17 @@
 
 - [ ] Checking [[Calls]] from the _Tocheck_ section [[Christoph]];
 - [ ] [[Libny]] check [Drivhuset](https://uppsala.drivhuset.se/en/);
-- [x] Share Github accounts [[Alejandro]]; test
+- [x] Share Github accounts [[Alejandro]];
 - [x] Share Github accounts [[Libny]], [[Christoph]];
 - [x] [[Libny]], [[Alejandro]] share the existing materials;
 - [ ] Put down several scenarios for our organization with SWOT analysis [[Stasja]] [[Alejandro]];
+- [x] [[Alejandro]] checks with [[Belysningsstyftelse]] about the amount we get
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 - [ ] [[Stasja]] lists different scenarios for our organization;
 - [ ] [[Alejandro]] contacts Anders from företagarecentrum about ägaravtal and ägardirektiv;
 - [ ] [[Libny]] contacts people from development companies (Arup, Vasakronan);
 - [ ] [[Alejandro]] continues the conversation with [[LINK]];
-- [ ] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<[https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link](https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link&authuser=4)>) for [[Smart Build Environment]] and comment;
+- [ ] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link>) for [[Smart Build Environment]] and comment;
 - [ ] [[Christoph]] checks with AIT;
 
 ---

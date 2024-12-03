@@ -6,6 +6,8 @@
 - [ ] updates from actions from [[Meeting 2]];
 - [ ] discuss proposal for [[Smart Build Environment]];
 - [ ] understand critical points and time distribution;
+- [ ] share calendars for meeting 
+- [ ] Discuss implementation of time reporting system to track hours by project/work package for better follow-up.
 - [ ] go through possible ways of company organization;
 - [ ] planning for [[Belysningsstyftelse]] project Jan-June;
 
