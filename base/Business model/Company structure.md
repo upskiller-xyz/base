@@ -15,6 +15,13 @@ Different _ownership_ scenarios:
 * [[Upskiller]] is _coowned_ by the [[Team]] and the _partners_;
 * The [[Team]] collaborates without establishing a company.
 
+### Comparison
+
+![[Strengths.png]]
+![[Risks.png]]
+
+
+### Embedded assets
 
 ![[Strengths]]
 
