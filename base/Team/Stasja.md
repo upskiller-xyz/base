@@ -1,5 +1,6 @@
----
 
-**Co-Founder & Tech Lead**
+____
+
+**Cofounder & Tech Lead**
 
 ![[stasja.png]]
