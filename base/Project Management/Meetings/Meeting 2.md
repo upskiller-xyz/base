@@ -40,6 +40,7 @@
 - [ ] [[Alejandro]] continues the conversation with [[LINK]];
 - [ ] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link>) for [[Smart Build Environment]] and comment;
 - [ ] [[Christoph]] checks with AIT;
+- [ ] [[Stasja]] fixes the website;
 
 ---
 
