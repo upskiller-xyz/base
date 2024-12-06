@@ -35,9 +35,9 @@
 - [x] [[Alejandro]] checks with [[Belysningsstyftelse]] about the amount we get
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 - [ ] [[Stasja]] lists different scenarios for our organization;
-- [ ] [[Alejandro]] contacts Anders from företagarecentrum about ägaravtal and ägardirektiv;
+- [x] [[Alejandro]] contacts Anders from företagarecentrum about ägaravtal and ägardirektiv;
 - [ ] [[Libny]] contacts people from development companies (Arup, Vasakronan);
-- [ ] [[Alejandro]] continues the conversation with [[LINK]];
+- [x] [[Alejandro]] continues the conversation with [[LINK]];
 - [ ] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link>) for [[Smart Build Environment]] and comment;
 - [ ] [[Christoph]] checks with AIT;
 - [ ] [[Stasja]] fixes the website;
