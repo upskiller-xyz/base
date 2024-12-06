@@ -31,10 +31,10 @@
 - [x] Share Github accounts [[Alejandro]];
 - [x] Share Github accounts [[Libny]], [[Christoph]];
 - [x] [[Libny]], [[Alejandro]] share the existing materials;
-- [ ] Put down several scenarios for our organization with SWOT analysis [[Stasja]] [[Alejandro]];
+- [x] Put down several scenarios for our organization with SWOT analysis [[Stasja]] [[Alejandro]];
 - [x] [[Alejandro]] checks with [[Belysningsstyftelse]] about the amount we get
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
-- [ ] [[Stasja]] lists different scenarios for our organization;
+- [x] [[Stasja]] lists different scenarios for our organization;
 - [x] [[Alejandro]] contacts Anders from företagarecentrum about ägaravtal and ägardirektiv;
 - [ ] [[Libny]] contacts people from development companies (Arup, Vasakronan);
 - [x] [[Alejandro]] continues the conversation with [[LINK]];
