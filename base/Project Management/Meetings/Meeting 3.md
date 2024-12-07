@@ -3,7 +3,7 @@
 ### 📃 Agenda
 
 **General**
-- [ ] [[Stasja]] intro to obsidian;
+- [x] [[Stasja]] intro to obsidian;
 - [ ] updates from actions from [[Meeting 2]];
 
 **Belysningstiftelse project**
