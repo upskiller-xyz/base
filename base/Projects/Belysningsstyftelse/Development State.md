@@ -10,3 +10,4 @@ _Legal requirement after the MACAD course according to the contract._
 
 - synthetic data generator
 - pix2pix model
+

@@ -3,7 +3,7 @@
 ### 📃 Agenda
 
 - [x] weekly updates
-- [x] managing support from [[Belysningsstyftelse]]
+- [x] managing support from [[Belysningsstiftelsen]]
 - [x] meeting with Arno
 - [x] long-term perspective
 - [ ] understand critical points and time distribution
@@ -21,26 +21,26 @@
 - [[Christoph]] is still figuring his involvement in percentage (20-40%);
 - [[Alejandro]] explained two ways of receiving the support (directly without taxes or through an AB that hires us as individual enterpreneurs paying the taxes and social security). We can decide separately the mode of receiving the support;
 - add [Drivhuset](https://uppsala.drivhuset.se/en/) to the list of [[Accelerators]];
-- [[Alejandro]] would change the plan from making a dataset for [[Belysningsstyftelse]] to writing a proposal for [[Smart Build Environment]];
+- [[Alejandro]] would change the plan from making a dataset for [[Belysningsstiftelsen]] to writing a proposal for [[Smart Build Environment]];
 - started discussing different ways of organizing the company. No decision taken at that point.
 
 ### 🚀 Actions
 
-- [ ] Checking [[Calls]] from the _Tocheck_ section [[Christoph]];
-- [ ] [[Libny]] check [Drivhuset](https://uppsala.drivhuset.se/en/);
+- [x] Checking [[Calls]] from the _Tocheck_ section [[Christoph]];
+- [x] [[Libny]] check [Drivhuset](https://uppsala.drivhuset.se/en/);
 - [x] Share Github accounts [[Alejandro]];
 - [x] Share Github accounts [[Libny]], [[Christoph]];
 - [x] [[Libny]], [[Alejandro]] share the existing materials;
 - [x] Put down several scenarios for our organization with SWOT analysis [[Stasja]] [[Alejandro]];
-- [x] [[Alejandro]] checks with [[Belysningsstyftelse]] about the amount we get
+- [x] [[Alejandro]] checks with [[Belysningsstiftelsen]] about the amount we get
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 - [x] [[Stasja]] lists different scenarios for our organization;
 - [x] [[Alejandro]] contacts Anders from företagarecentrum about ägaravtal and ägardirektiv;
-- [ ] [[Libny]] contacts people from development companies (Arup, Vasakronan);
+- [x] [[Libny]] contacts people from development companies (Bureau Happold, Vasakronan);
 - [x] [[Alejandro]] continues the conversation with [[LINK]];
-- [ ] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link>) for [[Smart Build Environment]] and comment;
-- [ ] [[Christoph]] checks with AIT;
-- [ ] [[Stasja]] fixes the website;
+- [x] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link>) for [[Smart Build Environment]] and comment;
+- [x] [[Christoph]] checks with AIT;
+- [x] [[Stasja]] fixes the website;
 
 ---
 

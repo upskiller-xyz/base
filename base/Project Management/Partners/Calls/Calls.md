@@ -9,7 +9,7 @@
 
 ### Ongoing
 
-- [[Belysningsstyftelse]]
+- [[Belysningsstiftelsen]]
 
 ### Less relevant
 

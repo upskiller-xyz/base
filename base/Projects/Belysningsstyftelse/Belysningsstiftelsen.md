@@ -6,9 +6,13 @@ This project aims at development of a tool that would perform real-time daylight
 
 2024/11 - 2025/05
 
+![timeline](timeline.svg)
+
+> [!tip]- 👀 Embedded
+> ![[timeline]]
 ### 💶 Finances
 
-- Grant from [Belysningsstyftelse](https://belysningsstiftelsen.se/)
+- Grant from [Belysningsstiftelsen](https://belysningsstiftelsen.se/)
 
 ## 💎 Resources
 

@@ -21,8 +21,6 @@ Different _ownership_ scenarios:
 ![[Risks.png]]
 
 
-### Embedded assets
-
-![[Strengths]]
-
-![[Business model/assets/Risks]]
+>[!tip]- 👀 Embedded
+> ![[Strengths]]
+> ![[Business model/assets/Risks]]
