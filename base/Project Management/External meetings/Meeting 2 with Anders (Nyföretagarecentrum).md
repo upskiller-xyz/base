@@ -7,7 +7,7 @@
 - In our case normally the board of directors will be the four of us
 - We also need to appoint a Chairman (not the same as CEO) they are responsible on the company toward the exterior world, they call and organize board meetings (once/twice a year). Their vote can unbreak ties when voting on some decisions. 
 - Value of the company: calculate revenue and profit in 1, 2, 5 years, a rule of thumb to calculate the value of the company is to multiply by 10 the expected profit on year 5
-- One possible setup that could be used in our case is to create one AB only between us four and then another one subsidiary one owned together with LINK (or whatever other company/ies) for this specific project (Smart Built Environment) for example to develop only the part with transforming BIM models to graphs and connecting them to LLM through graphRAG. These results will be jointly owned by the subsidiary company but whatever we develop outside of that will be only ours.
+- One possible setup that could be used in our case is to create one AB only between us four and then another one subsidiary one owned together with [[LINK]] (or whatever other company/ies) for this specific project ([[Smart Build Environment]]) for example to develop only the part with transforming BIM models to graphs and connecting them to LLM through graphRAG. These results will be jointly owned by the subsidiary company but whatever we develop outside of that will be only ours.
 
 ### 🚀 Actions
 

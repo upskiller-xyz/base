@@ -39,7 +39,7 @@
 - [ ] [[Alejandro]]  contacts [[Marja Lundgren]] (Boverket and ArkDes) and [[Arno]] (Sveriges arkitekter) to present the idea of the workshops
 - [ ] [[Alejandro]] contacts [[Velux]];
 - [x] [[Stasja]] does the list of activities assigning budgeted hours in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (activities tab);
-- [ ] [[Stasja]] makes a plan Jan-June for [[Belysningsstiftelsen]];
+- [x] [[Stasja]] makes a plan Jan-June for [[Belysningsstiftelsen]];
 - [ ] [[Christoph]] contacts [[Almi]]
 - [ ] [[Team]] fills the Time reporting for this week in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (before Monday);
 - [ ] [[Team]] goes through the documents sent by Anders;
