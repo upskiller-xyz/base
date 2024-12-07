@@ -4,11 +4,7 @@
 
 **General**
 - [x] [[Stasja]] intro to obsidian;
-<<<<<<< HEAD
 - [x] updates from actions from [[Meeting 2]];
-=======
-- [ ] updates from actions from [[Meeting 2]];
->>>>>>> baa4ebd6c9e51728492b58baf15c25e562a0151b
 
 **Belysningstiftelse project**
 - [x] [[Alejandro]] shows [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) and weekly payments
