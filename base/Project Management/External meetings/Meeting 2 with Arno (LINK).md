@@ -69,6 +69,8 @@
 		- Collaborate with the Smart Built Environment community to maximize the project's contribution to the sector.
 		- Deliverable: Comprehensive dissemination plan and documented engagement activities to promote industry adoption of project results.
 
+**Example from another research project LINK is involved in**
+![[Pasted image 20241209200549.png]]
 ### 🚀 Actions
 
 - [ ] [[Team]] discusses the collaboration model proposed
