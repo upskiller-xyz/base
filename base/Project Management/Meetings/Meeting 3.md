@@ -41,7 +41,7 @@
 - [x] [[Stasja]] does the list of activities assigning budgeted hours in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (activities tab);
 - [x] [[Stasja]] makes a plan Jan-June for [[Belysningsstiftelsen]];
 - [ ] [[Christoph]] contacts [[Almi]]
-- [ ] [[Team]] fills the Time reporting for this week in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (before Monday);
+- [x] [[Team]] fills the Time reporting for this week in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (before Monday);
 - [ ] [[Team]] goes through the documents sent by Anders;
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 
