@@ -3,7 +3,7 @@
 ### 📃 Agenda
 
 - [x] weekly updates
-- [x] managing support from [[Belysningsstiftelsen]]
+- [x] managing support from [[Belysningsstyftelse]]
 - [x] meeting with Arno
 - [x] long-term perspective
 - [ ] understand critical points and time distribution
@@ -26,8 +26,8 @@
 
 ### 🚀 Actions
 
-- [x] Checking [[Calls]] from the _Tocheck_ section [[Christoph]];
-- [x] [[Libny]] check [Drivhuset](https://uppsala.drivhuset.se/en/);
+- [ ] Checking [[Calls]] from the _Tocheck_ section [[Christoph]];
+- [ ] [[Libny]] check [Drivhuset](https://uppsala.drivhuset.se/en/);
 - [x] Share Github accounts [[Alejandro]];
 - [x] Share Github accounts [[Libny]], [[Christoph]];
 - [x] [[Libny]], [[Alejandro]] share the existing materials;
@@ -36,7 +36,7 @@
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 - [x] [[Stasja]] lists different scenarios for our organization;
 - [x] [[Alejandro]] contacts Anders from företagarecentrum about ägaravtal and ägardirektiv;
-- [x] [[Libny]] contacts people from development companies (Bureau Happold, Vasakronan);
+- [ ] [[Libny]] contacts people from development companies (Arup, Vasakronan);
 - [x] [[Alejandro]] continues the conversation with [[LINK]];
 - [x] [[Christoph]], [[Stasja]], [[Libny]] go through the [application](<https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link>) for [[Smart Build Environment]] and comment;
 - [x] [[Christoph]] checks with AIT;
