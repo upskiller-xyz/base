@@ -25,28 +25,35 @@
 
 ### ⚠️ Updates
 
-- UK innovation funding call
-	- No time for development, you just work on projects without time for reflection.
-	- Industry is lagging behind in terms of data science adaptation compared to other industries.
-	- UK government has identified this and wants to put some money to accelerate this. 
-	- Funding calls SMI + established companies, building capabilities in the field. Lead needs to pay, government gives up to 100,000 pounds. Accreditation to be involved in the program, not so much the money that they are willing
-	- SMI probably needs to be registered in the UK, probably not something for us
-They are interested in the demo we sent them (co2 predictions, BIM2graph, NL interaction)
-Use cases, retrieve data from projects, labelling things, MEP. 
-Open source approach, they are willing to collaborate anyways. example: their unit BHoM.
+- ### UK Innovation Funding Call:
 
-Putting projects on a graph, retrieve important information from projects, repository of stuctural systems, scraping data from models. Natural language to querry it. 
-People, which people work in these projects, expanding the graphs to people working in projects, 
-Embodied carbon calculated: approximately based on previous co2 reports. 
-**Idea for the collaboration with malmö: Municipality, apart from taking the climate deklaration, takes the revit model as a pilot test to when we will be able to have ifc building permit submissions.** 
-Labeling, standardize labeling, use AI to interpret labels and make sense of them, cause its the wild west, everyone does different things. Postprocess models with LLMs to harmonize labels. BIM to Graph will give an extra layer to that because it can actually make sense of the labelling system, not only make sure that the system is harmonic. 
-Workshops and reference groups, Marcelo would definitely be open to participate in our reference group. We have his permission to put himself down as part of the expert community in data science. 
-Idea: Graphs of BIM models can be extended, bombining buildings into digital twin cities.
+- **Industry Challenge**: The construction industry typically lacks development time due to continuous project work, limiting reflection and innovation.
+- **Data Science Adoption**: The industry is notably behind in integrating data science, compared to other sectors.
+- **Government Initiative**: The UK government has recognized these issues and is offering funding to stimulate data science application in construction. The program supports SMI and established companies to build capabilities, providing up to £100,000. However, participants likely need to be UK-registered, which may not apply to your situation but is still worth investigating.
 
-Internal grants: jetpags, 3 budgets for AI (
-- business as usual, 
-- AI innovation grants projects that are prioritized, learning plattform he mentioned
-- jecpags (10 000 pounds each) comes from an internal employee, time and infrastructure. 
+### Collaboration with BuroHappold:
+
+- **Interest in Demo**: BuroHappold showed interest in your demo involving CO2 predictions, BIM2graph, and natural language interactions, which align with their ongoing projects.
+- **Open Source Approach**: They advocate for open-source solutions, as demonstrated by their BHoM unit.
+- **Current Projects**:
+    - Using graphs to manage project data and structural systems.
+    - Developing tools for scraping model data and using natural language for queries.
+    - Creating organizational graphs to optimize project and personnel management.
+    - Estimating embodied carbon based on BIM models and previous reports.
+- **AI Development Budget**:
+    - **Business as Usual**: Funds for enhancing internal processes.
+    - **High-Impact Projects**: Significant investments in long-term AI projects like learning platforms.
+    - **JECPAGS Initiatives**: Smaller grants (around £10,000) for internal teams to explore or test new ideas.
+
+### Potential Collaboration Opportunities:
+
+- **Collaboration Workshops**: Marcelo from BuroHappold is open to participating in your reference group, contributing as a data science expert.
+- **Innovative Ideas**:
+    - **Malmö Municipality Collaboration**: Pilot test using Revit models for building permits as part of a climate declaration initiative.
+    - **Labeling in BIM Models**: Standardizing and harmonizing labeling using AI. This could evolve from merely standardizing to creating and applying new labeling systems, adding a layer of structure with BIM to Graph.
+    - **Extended Graphs**: Developing digital twin cities by expanding BIM model graphs.
+
+
 ### 🚀 Actions
 
 - [ ] Include Marcelo Lecocq in our reference group 
