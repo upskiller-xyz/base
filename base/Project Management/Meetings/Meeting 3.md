@@ -36,8 +36,8 @@
 
 ### 🚀 Actions
 - [ ] [[Alejandro]] prepares the [crash course presentation on performance design](https://docs.google.com/presentation/d/10kDiuaBg9PXxkLYuyn7pi64yDn2dp6OcsFPlELe04hU/edit?usp=sharing)
-- [ ] [[Alejandro]]  contacts [[Marja Lundgren]] (Boverket and ArkDes) and [[Arno]] (Sveriges arkitekter) to present the idea of the workshops
-- [ ] [[Alejandro]] contacts [[Velux]];
+- [x] [[Alejandro]]  contacts [[Marja Lundgren]] (Boverket and ArkDes) and [[Arno]] (Sveriges arkitekter) to present the idea of the workshops
+- [x] [[Alejandro]] contacts [[Velux]];
 - [x] [[Stasja]] does the list of activities assigning budgeted hours in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (activities tab);
 - [x] [[Stasja]] makes a plan Jan-June for [[Belysningsstiftelsen]];
 - [ ] [[Christoph]] contacts [[Almi]]

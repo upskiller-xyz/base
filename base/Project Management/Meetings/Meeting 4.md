@@ -3,10 +3,10 @@
 ### 📃 Agenda
 
 - [ ] updates from actions from [[Meeting 3]];
-- [ ] [[Alejandro]] explains building performance;
-- [ ] Discussion on the preferred [[Company structure]]
+- [ ] go through the [shareholders agreement](https://docs.google.com/document/d/1FLEKmqAUgwVjezVpQCYZXtQxgObIp0d9JPx9HLRZ-FI/edit?usp=drive_link)
+- [ ] Discussion on the preferred [[Company structure]], updates from [[Alejandro]] and [[Libny]] from [[Meeting 2 with Arno (LINK)]], meeting with BuroHappold and [[Meeting 2 with Gustaf]]
 - [ ] Discussion on the timeline
-- [ ] Go through points in [[Meeting 2 with Arno (LINK)]]
+- [ ] [[Alejandro]] explains building performance;
 ### ⚠️ Updates
 
 ### 🚀 Actions

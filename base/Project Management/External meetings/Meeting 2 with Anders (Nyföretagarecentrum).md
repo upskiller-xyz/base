@@ -11,12 +11,12 @@
 
 ### 🚀 Actions
 
-- [ ] Decide whether we want to open an AB 
-- [ ] Go together through the example documents that Anders sent and adapt them for our purpose.
-- [ ] Call [Skatteverket](https://www.skatteverket.se/) to register [[Christoph]] to be delägare of the AB
+- [x] Decide whether we want to open an AB 
+- [ ] Go together through the [example documents](https://drive.google.com/drive/folders/1coqu0AwE2-ikKqVvbIRTPdn2sW6tDcIp?usp=drive_link) that Anders sent and adapt them for our purpose.
+- [x] Call [Skatteverket](https://www.skatteverket.se/) to register [[Christoph]] to be delägare of the AB DONE, he does not need to.
 - [ ] Start the process of contacting a bank and [verksamt.se](https://verksamt.se/mina-sidor/autentisering/logga-in?redirect=/registrera-foretag/?f=ab) to get started the process of opening a AB started.
 - [ ] Make the [[Business model]] (calculate revenue, costs, profit for 1,2 and 5 years) to value the company
-- [ ] [Book](https://nyforetagarcentrum.se/stockholm/radgivning/) all meetings we would like to have with [Anders](mailto:anders.lycksater@celavi.se)  until February before the end of December as we will not be able to do it afterwards.
+- [x] [Book](https://nyforetagarcentrum.se/stockholm/radgivning/) all meetings we would like to have with [Anders](mailto:anders.lycksater@celavi.se)  until February before the end of December as we will not be able to do it afterwards.
 
 ### ❔ Questions
 

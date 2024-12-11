@@ -74,5 +74,5 @@
 ### 🚀 Actions
 
 - [ ] [[Team]] discusses the collaboration model proposed
-- [ ] [[Alejandro]] sketches a draft of a one-pager with the main points of the project, shares with [[Team]] for updates/corrections and then sends to [[Arno]] so he can get approval from [[LINK]]
-- [ ] [[Libny]] has a meeting with [[Bureau Happold]] and figure out what their interest in this project is and how they would like to be involved.
+- [x] [[Alejandro]] sketches a draft of a one-pager with the main points of the project, shares with [[Team]] for updates/corrections and then sends to [[Arno]] so he can get approval from [[LINK]]
+- [x] [[Libny]] schedules a meeting with [[Bureau Happold]] and figure out what their interest in this project is and how they would like to be involved.
