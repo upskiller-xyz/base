@@ -1,5 +1,5 @@
 ⏳ **Date:** 2024/12/11
-👩 **Attendants:** [[Libny]], [[Alejandro]], christoph 
+👩 **Attendants:** [[Libny]], [[Alejandro]], [[Christoph]] 
 
 ### 📃 Agenda
 
@@ -30,20 +30,22 @@
 - **Industry Challenge**: The construction industry typically lacks development time due to continuous project work, limiting reflection and innovation.
 - **Data Science Adoption**: The industry is notably behind in integrating data science, compared to other sectors.
 - **Government Initiative**: The UK government has recognized these issues and is offering funding to stimulate data science application in construction. The program supports SMI and established companies to build capabilities, providing up to £100,000. However, participants likely need to be UK-registered, which may not apply to your situation but is still worth investigating.
+  https://apply-for-innovation-funding.service.gov.uk/competition/2072/overview/37897e42-6e3e-43af-b13d-3e302bc0bcf9#summary
 
 ### Collaboration with BuroHappold:
 
 - **Interest in Demo**: BuroHappold showed interest in your demo involving CO2 predictions, BIM2graph, and natural language interactions, which align with their ongoing projects.
-- **Open Source Approach**: They advocate for open-source solutions, as demonstrated by their BHoM unit.
+- **Open Source Approach**: They advocate for open-source solutions, as demonstrated by https://bhom.xyz .
 - **Current Projects**:
-    - Using graphs to manage project data and structural systems.
+    - Using graphs to manage project data and structure and MEP.
     - Developing tools for scraping model data and using natural language for queries.
     - Creating organizational graphs to optimize project and personnel management.
     - Estimating embodied carbon based on BIM models and previous reports.
 - **AI Development Budget**:
     - **Business as Usual**: Funds for enhancing internal processes.
     - **High-Impact Projects**: Significant investments in long-term AI projects like learning platforms.
-    - **JECPAGS Initiatives**: Smaller grants (around £10,000) for internal teams to explore or test new ideas.
+    - **JETPACKS Initiatives**: Smaller grants (around £10,000) for internal teams to explore or test new ideas.
+- **Neo4j** finds the schema in your files automatically.
 
 ### Potential Collaboration Opportunities:
 
@@ -52,6 +54,7 @@
     - **Malmö Municipality Collaboration**: Pilot test using Revit models for building permits as part of a climate declaration initiative.
     - **Labeling in BIM Models**: Standardizing and harmonizing labeling using AI. This could evolve from merely standardizing to creating and applying new labeling systems, adding a layer of structure with BIM to Graph.
     - **Extended Graphs**: Developing digital twin cities by expanding BIM model graphs.
+    - **80-20**: what are the 20 questions people will ask 95% of the time to the graph? (make graphs smaller, they dont need to answer all question, just 20)
 
 
 ### 🚀 Actions
