@@ -3,7 +3,7 @@
 
 ### ⚠️ Updates
 
-[[Gustav]] recommends granting equity to [[LINK]] to ensure all parties are incentivized to collaboratively contribute to the company's success rather than competing strategically. He advises against shared ownership of the code between two companies due to the risks of intellectual property theft. Instead, he suggests that forming a single company to protect the code is more secure and effective. So, he suggests to offer equity to LINK, as a move to align our efforts and secure co-ownership of the company and its intellectual outputs. 
+[[Gustav]] recommends granting equity to [[LINK]] to ensure all parties are incentivised to collaboratively contribute to the company's success rather than competing strategically. He advises against shared ownership of the code between two companies due to the risks of intellectual property theft. Instead, he suggests that forming a single company to protect the code is more secure and effective. So, he suggests to offer equity to LINK, as a move to align our efforts and secure co-ownership of the company and its intellectual outputs. 
 
 Initial proposal: We propose initially discussing with LINK their expectations on equity stakes, having preliminarily calculated a reasonable 14% for them. However, we're prepared to negotiate up to 20-25%.
 

@@ -1,5 +1,5 @@
 ⏳ **Date:** 2024/12/11
-👩 **Attendants:** [[Libny]], [[Alejandro]], 
+👩 **Attendants:** [[Libny]], [[Alejandro]], christoph 
 
 ### 📃 Agenda
 
