@@ -3,9 +3,20 @@
 ### 📃 Agenda
 
 - [ ] updates from actions from [[Meeting 3]];
+
+**Smart Built Environment**
 - [ ] go through the [shareholders agreement](https://docs.google.com/document/d/1FLEKmqAUgwVjezVpQCYZXtQxgObIp0d9JPx9HLRZ-FI/edit?usp=drive_link)
-- [ ] Discussion on the preferred [[Company structure]], updates from [[Alejandro]] and [[Libny]] from [[Meeting 2 with Arno (LINK)]], meeting with BuroHappold and [[Meeting 2 with Gustaf]]
-- [ ] Discussion on the timeline
+- [ ] Discussion on the preferred [[Company structure]], updates from [[Alejandro]] and [[Libny]]
+	- [ ] [[Meeting 2 with Arno (LINK)]]
+	- [ ] [[Meeting 2 with Gustaf]]
+	- [ ] [[Meeting 1 with BuroHappold]] 
+	- [ ] [[Meeting 3 with Gustav]]
+	- [ ] [[Meeting 1 with Aaron]]
+	- [ ] [[Meeting 3 with Arno (LINK)]]
+- [ ] Discuss AB registration 
+
+**Belysningstyftelse**
+- [ ] Discussion of the timeline 
 - [ ] [[Alejandro]] explains building performance;
 ### ⚠️ Updates
 

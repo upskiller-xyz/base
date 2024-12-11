@@ -10,6 +10,6 @@ Initial proposal: We propose initially discussing with LINK their expectations o
 ### 🚀 Actions
 
 - [x] [[Alejandro]] and [[Libny]] send the company valuation calculation and detailed equity proposal for LINK, along with information about the funding call for smart built environments, to [[Gustav]].
-- [ ] [[Alejandro]] and [[Libny]] review these details with [[Gustav]] in a meeting tomorrow to strategize for negotiations with LINK.
-- [ ] Arrange a meeting with [[Arno]] later in the week, aiming for Thursday or Friday, to discuss and finalize the equity sharing arrangement.
-- [x] Find answers to [[questions asked in the meeting about funding Call]] 
+- [x] [[Libny]] and [[Alejandro]] look for [[Q&A about Smart Built Enviroment]]
+- [x] Arrange a meeting with [[Arno]] later in the week, aiming for Thursday or Friday, to discuss and finalize the equity sharing arrangement.
+- [ ]  [[Alejandro]] and [[Libny]] review these details with [[Gustav]] in [[Meeting 3 with Gustav]] to strategize for negotiations with LINK.

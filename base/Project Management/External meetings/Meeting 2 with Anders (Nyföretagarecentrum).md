@@ -1,4 +1,5 @@
 ⏳ **Date:** 2024/12/05
+👩 **Attendants:** [[Team]] [[anders.lycksater@celavi.se]]
 
 ### ⚠️ Updates
 

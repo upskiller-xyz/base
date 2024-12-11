@@ -8,6 +8,7 @@
 ### 💎 Resources
 
 [Application](<[https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link](https://docs.google.com/document/d/1Nw39aLQXX1vT108xCehXid6ua1sFzgRvoNgCRudiSdM/edit?usp=drive_link&authuser=4)>)
+Our own document on [[Q&A about Smart Built Enviroment]]
 
 ### 📝 Comments
 
