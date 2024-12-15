@@ -35,14 +35,15 @@
 
 
 ### 🚀 Actions
-- [ ] [[Alejandro]] prepares the [crash course presentation on performance design](https://docs.google.com/presentation/d/10kDiuaBg9PXxkLYuyn7pi64yDn2dp6OcsFPlELe04hU/edit?usp=sharing)
+- [x] [[Alejandro]] prepares the [crash course presentation on performance design](https://docs.google.com/presentation/d/10kDiuaBg9PXxkLYuyn7pi64yDn2dp6OcsFPlELe04hU/edit?usp=sharing)
 - [x] [[Alejandro]]  contacts [[Marja Lundgren]] (Boverket and ArkDes) and [[Arno]] (Sveriges arkitekter) to present the idea of the workshops
 - [x] [[Alejandro]] contacts [[Velux]];
 - [x] [[Stasja]] does the list of activities assigning budgeted hours in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (activities tab);
 - [x] [[Stasja]] makes a plan Jan-June for [[Belysningsstiftelsen]];
 - [ ] [[Christoph]] contacts [[Almi]]
 - [x] [[Team]] fills the Time reporting for this week in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (before Monday);
-- [ ] [[Team]] goes through the documents sent by Anders;
+- [x] [[Alejandro]] makes a shareholder agreement skecth based on the [documents sent by Anders](https://drive.google.com/drive/folders/1D0o5vPAGWk6jzJC9uB1QayMUgMJmPIMe?usp=drive_link);
+- [ ] [[Team]] goes through the [sketch of the share holder agreement](https://docs.google.com/document/d/1FLEKmqAUgwVjezVpQCYZXtQxgObIp0d9JPx9HLRZ-FI/edit?usp=drive_link) and comments
 - [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 
 ---
