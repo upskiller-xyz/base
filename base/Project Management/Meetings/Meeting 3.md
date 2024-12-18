@@ -40,11 +40,11 @@
 - [x] [[Alejandro]] contacts [[Velux]];
 - [x] [[Stasja]] does the list of activities assigning budgeted hours in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (activities tab);
 - [x] [[Stasja]] makes a plan Jan-June for [[Belysningsstiftelsen]];
-- [ ] [[Christoph]] contacts [[Almi]]
+- [x] [[Christoph]] contacts [[Almi]]
 - [x] [[Team]] fills the Time reporting for this week in the [time reporting system](https://docs.google.com/spreadsheets/d/1acTvHOKD0QCCJYG0vyyUjruoZdrIs8IaxwaCIHO0d6s/edit?usp=sharing) (before Monday);
 - [x] [[Alejandro]] makes a shareholder agreement skecth based on the [documents sent by Anders](https://drive.google.com/drive/folders/1D0o5vPAGWk6jzJC9uB1QayMUgMJmPIMe?usp=drive_link);
-- [ ] [[Team]] goes through the [sketch of the share holder agreement](https://docs.google.com/document/d/1FLEKmqAUgwVjezVpQCYZXtQxgObIp0d9JPx9HLRZ-FI/edit?usp=drive_link) and comments
-- [ ] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
+- [x] [[Team]] goes through the [sketch of the share holder agreement](https://docs.google.com/document/d/1FLEKmqAUgwVjezVpQCYZXtQxgObIp0d9JPx9HLRZ-FI/edit?usp=drive_link) and comments
+- [x] Start listing organizations for reference group ([[Stasja]] makes the document and [[Team]] fills it);
 
 ---
 
